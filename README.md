@@ -2,7 +2,7 @@
 <h3 align="center">No, this is not another cheap chinese site.</h3>
 
 
-![Snake animation](https://github.com/jueta/jueta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jueta/jueta/edit/main/snake.svg)
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/nPxAn9NBqfIAAAAC/beavis-computer.gif">
 
