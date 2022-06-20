@@ -1,5 +1,5 @@
 <h1 align="center">欢迎, 我是 乔昂</h1>
-<h3 align="center">No, this is not another cheap chinese site.</h3>
+<h3 align="center">Fico feliz por estar visitando meu perfil... Enjoy it</h3>
 
 
 ![Snake animation](https://github.com/jueta/jueta/blob/main/snake.svg)
