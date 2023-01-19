@@ -1,5 +1,5 @@
 <h1 align="center">欢迎, 我是 乔昂</h1>
-<h3 align="center">Fico feliz por estar visitando meu perfil... Enjoy it</h3>
+<h3 align="center">Welcome to my profile... Enjoy it</h3>
 
 
 ![Snake animation](https://github.com/jueta/jueta/blob/main/snake.svg)
@@ -7,13 +7,13 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/nPxAn9NBqfIAAAAC/beavis-computer.gif">
 
 
-- 🔭 I’m currently working on **Embedded Systems**
+- 🌱 Most of my works are on **Embedded Systems**
 
-- 🌱 I’m currently learning **Machine Learning algorithms**
+- 🔭 I’m studying **Control and Automation Engineering**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m currently working on **Control and Automation systems for Water Technology Researchs**
 
-- 💬 Ask me about **Electronics, AI and IoT.**
+- 💬 Ask me about **Electronics, Computer Engineering and Control sytems.**
 
 - 📫 How to reach me **jpmm2209@gmail.com**
 
