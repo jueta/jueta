@@ -13,9 +13,9 @@
 
 - 👯 I’m currently working on **Automotive Electronics and Control**
 
-- 🧐 Also intereted in **Artificial Intelligence Algorithms.**
+- 🧐 Also intereted in **Artificial Intelligence Algorithms**
 
-- 💬 Ask me about **Electronics, Computer Engineering and Control sytems.**
+- 💬 Ask me about **Electronics, Computer Engineering and Control sytems**
 
 - 📫 How to reach me **jpmm2209@gmail.com**
     **https://www.linkedin.com/in/joao-pedro-miranda/**
