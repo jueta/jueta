@@ -9,13 +9,17 @@
 
 - 🌱 Most of my works are on **Embedded Systems**
 
-- 🔭 I’m studying **Control and Automation Engineering**
+- 🔭 I’m graduated in **Control and Automation Engineering**
 
-- 👯 I’m currently working on **Control and Automation systems for Water Technology Researchs**
+- 👯 I’m currently working on **Automotive Electronics and Control**
+
+- 🧐 Also intereted in **Artificial Intelligence Algorithms.**
 
 - 💬 Ask me about **Electronics, Computer Engineering and Control sytems.**
 
 - 📫 How to reach me **jpmm2209@gmail.com**
+    **https://www.linkedin.com/in/joao-pedro-miranda/**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
