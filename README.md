@@ -11,7 +11,7 @@
 
 - 🔭 I’m graduated in **Control and Automation Engineering**
 
-- 👯 I’m currently working on **Automotive Electronics and Control**
+- 👯 I’m currently working on **Automotive Embedded Software**
 
 - 🧐 Also intereted in **Artificial Intelligence Algorithms**
 
