@@ -9,9 +9,9 @@
 
 - 🌱 Most of my works are on **Embedded Systems**
 
-- 🔭 I’m graduated in **Control and Automation Engineering**
+- 🔭 Graduated in **Control and Automation Engineering** at UFMG
 
-- 👯 I’m currently working on **Automotive Embedded Software**
+- 👯 Currently working on **Automotive Embedded Software**
 
 - 🧐 Also intereted in **Artificial Intelligence Algorithms**
 
