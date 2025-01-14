@@ -2,11 +2,6 @@
 <h3 align="center">Welcome to my profile... Enjoy it</h3>
 
 
-![Snake animation](https://github.com/jueta/jueta/blob/main/snake.svg)
-
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/nPxAn9NBqfIAAAAC/beavis-computer.gif">
-
-
 - 🌱 Most of my works are on **Embedded Systems**
 
 - 🔭 Graduated in **Control and Automation Engineering** at UFMG
