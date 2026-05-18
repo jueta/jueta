@@ -15,6 +15,8 @@
 - 📫 How to reach me **jpmm2209@gmail.com**
     **https://www.linkedin.com/in/joao-pedro-miranda/**
 
+- 💼 Portfolio: cv-9fl.pages.dev/
+
 <!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
