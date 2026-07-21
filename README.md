@@ -8,9 +8,9 @@
 
 - 👯 Currently working on **Automotive Embedded Software**
 
-- 🧐 Also intereted in **Optimization, control, 3D modelling and printing, Inventor/Maker community**
+- 🧐 Also interested in **Optimization, control, 3D modelling and printing, Inventor/Maker community**
 
-- 💬 Ask me about **Electronics, Computer Engineering and Control sytems**
+- 💬 Ask me about **Electronics, Computer Engineering and Control systems**
 
 - 📫 How to reach me **jpmm2209@gmail.com**
     **https://www.linkedin.com/in/joao-pedro-miranda/**
