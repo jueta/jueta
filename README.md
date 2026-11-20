@@ -6,7 +6,7 @@
 
 - 🔭 Graduated in **Control and Automation Engineering** at UFMG
 
-- 👯 Currently working on **Automotive Embedded Software**
+- 👯 Currently working on **Firmware/Embedded Engineering in Consumer Electronics**
 
 - 🧐 Also interested in **Optimization, control, 3D modelling and printing, Inventor/Maker community**
 
